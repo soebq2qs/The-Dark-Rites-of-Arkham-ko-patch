@@ -41,7 +41,11 @@ https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=shari
      문구가 나올떄까지 기다립니다.  
   5.  기존의 The Dark Rites of Arkham.ags 를 이름을 변경하거나 제거
   6.  생성된 patched_The Dark Rites of Arkham.ags 를 The Dark Rites of Arkham.ags 로 이름변경
---------------
+
+
+--------------<img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
+<img width="1406" height="745" alt="스크린샷 2026-03-03 005523" src="https://github.com/user-attachments/assets/cd9dfdb7-93d1-47f5-8b51-e268eb192c87" />
+
 
 ### 이슈 제보 및 피드백
 
