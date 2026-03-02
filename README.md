@@ -1,4 +1,4 @@
-# The Dark Rites of Arkham 한글패치
+# The Dark Rites of Arkham 유저한글패치
 
 
 본 프로젝트는 Postmodern Adventures의
