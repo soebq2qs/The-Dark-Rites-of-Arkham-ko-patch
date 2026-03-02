@@ -4,8 +4,11 @@
 본 프로젝트는 Postmodern Adventures의
 [The Dark Rites of Arkham](https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/)릏 번역을 하기 위한 작업입니다.
 
+---------------------
+
 AI 를 사용해 번역과 패치를 이용했고, 사람이 검수하는 방향으로 진행됩니다.
-인게임 대사와 아이템 설명
+일부 이미지와 대사는 변역이 되어있지 않습니다.
+
 ---------------------------------
 
 본 패치는 비공식 한글 패치로, 개발사/배급사와 무관합니다.
@@ -29,6 +32,18 @@ AI 를 사용해 번역과 패치를 이용했고, 사람이 검수하는 방향
   5.  기존의 The Dark Rites of Arkham.ags 를 이름을 변경하거나 제거
   6.  생성된 patched_The Dark Rites of Arkham.ags 를 The Dark Rites of Arkham.ags 로 이름변경
 --------------
+
+### 이슈 제보 및 피드백
+
+어색한 번역, 번역 오타, 줄바꿈 문제는 아래 방법으로 제보해 주세요
+
+  * Github lssue [이슈트래커 링크] 에 새 이슈를 등록해주세요
+  * 제보시 포함 할 내용:
+      * 문제가 발생한 위치 전후 대사 (에: 어디 배경 안)
+      * 문제 현상(가능하다면 스크린샷)
+
+
+---------------
 사용된 한글폰트
 
   1.갈무리 https://quiple.dev/galmuri
