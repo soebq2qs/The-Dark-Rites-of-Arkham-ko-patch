@@ -53,7 +53,7 @@ https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=shari
       * 문제 현상(가능하다면 스크린샷)
 -----------------------
  업데이트 기록
-
+    v1.0-
 
 
 ---------------
