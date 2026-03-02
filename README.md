@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=shari
   * Github lssue [이슈트래커 링크] 에 새 이슈를 등록해주세요
   * 제보시 포함 할 내용:
       * 문제가 발생한 위치 전후 대사 (에: 어디 배경 안)
-      * 문제 현상(가능하다면 스크린샷)
+      * 문제 현상(가능하다면 스크린샷포함)
 -----------------------
  업데이트 기록
     v1.0-
