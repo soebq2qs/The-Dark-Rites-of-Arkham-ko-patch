@@ -2,7 +2,8 @@
 
 
 본 프로젝트는 Postmodern Adventures의
-[The Dark Rites of Arkham](https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/)릏 번역을 하기 위한 작업입니다.
+[The Dark Rites of Arkham](https://store.steampowered.com/app/3566870/The_Dark_Rites_of_Arkham/)
+를 번역을 하기 위한 작업입니다.
 
 ---------------------
 
