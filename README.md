@@ -34,7 +34,7 @@ https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=shari
 
 스팀버전 기준으로 진행됩니다
   1.  스팀 라이브러리 -> 게임 이름 우클릭 -> 관리 -> 로컬 파일 탐색
-  2.  본 패치파일 압축물을 통챼로 설치 경로에 복사하여 붙여놓습니다. (덮어쓰기 알림창이 뜨는게 정상입니다.)
+  2.  본 패치파일 압축내용물을 통쨰로 설치 경로에 복사하여 붙여놓습니다. (덮어쓰기 알림창이 뜨는게 정상입니다.)
   3.  koPatch.bat 를 더블클릭하여 실행합니다. 시간이 다소 소요됩니다.
   4.  cmd 에서   
     - == 완료: patched_The Dark Rites of Arkham.ags ==-
@@ -57,7 +57,8 @@ https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=shari
       * 문제 현상(가능하다면 스크린샷포함)
 -----------------------
  업데이트 기록
-    v1.0-
+
+ v1.0 최초배포
 
 
 ---------------
