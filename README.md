@@ -27,7 +27,7 @@ AI 를 사용해 번역과 패치를 이용했고, 사람이 검수하는 방향
 
 패치파일 드라이브 주소
 
-https://drive.google.com/file/d/14MV8btRdInCOcwZd00SoHk3QzMEWm9LL/view?usp=drive_link
+https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=sharing
 
 ------------------------------
 ### 적용방법
@@ -49,7 +49,7 @@ https://drive.google.com/file/d/14MV8btRdInCOcwZd00SoHk3QzMEWm9LL/view?usp=drive
 
 ### 이슈 제보 및 피드백
 
-어색한 번역, 번역 오타, 줄바꿈 문제는 아래 방법으로 제보해 주세요
+어색한 번역, 번역 오타, 한글누락, 줄바꿈 문제는 아래 방법으로 제보해 주세요
 
   * Github lssue [이슈트래커 링크] 에 새 이슈를 등록해주세요
   * 제보시 포함 할 내용:
