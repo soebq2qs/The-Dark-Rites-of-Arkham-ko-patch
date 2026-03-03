@@ -27,7 +27,7 @@ AI 를 사용해 번역과 패치를 이용했고, 사람이 검수하는 방향
 
 패치파일 드라이브 주소
 
-https://drive.google.com/file/d/1h7YZYiCZB0Jo2r0a8pFB4pY0lms2mC1B/view?usp=sharing
+https://drive.google.com/file/d/14MV8btRdInCOcwZd00SoHk3QzMEWm9LL/view?usp=drive_link
 
 ------------------------------
 ### 적용방법
