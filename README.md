@@ -47,7 +47,8 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
        gameplay settings 를 korean 으로 변경 되어 있는지 확인합니다.
 
 
---------------<img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
+------------
+<img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
 <img width="1406" height="745" alt="스크린샷 2026-03-03 005523" src="https://github.com/user-attachments/assets/cd9dfdb7-93d1-47f5-8b51-e268eb192c87" />
 
 
