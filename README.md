@@ -41,6 +41,10 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
      문구가 나올떄까지 기다립니다.  
   5.  기존의 The Dark Rites of Arkham.ags 를 이름을 변경하거나 제거
   6.  생성된 patched_The Dark Rites of Arkham.ags 를 The Dark Rites of Arkham.ags 로 이름변경
+  7.   winsetup.exe 을 실행시켜 
+        <img width="429" height="72" alt="image" src="https://github.com/user-attachments/assets/e48dc180-4b88-4c2c-b31b-37c7a9e84dc0" />
+
+       gameplay settings 를 korean 으로 변경 되어 있는지 확인합니다.
 
 
 --------------<img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
