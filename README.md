@@ -46,6 +46,11 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
 
        gameplay settings 를 korean 으로 변경 되어 있는지 확인합니다.
 
+------
+제기된 문제
+ 1) 한글 자체가 안나오고 영어가 나오는 현상
+
+korean.tra를 제외한 .tra 파일 을 지워주시고 다시 실행하시면 됩니다. 
 
 ------------
 <img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
