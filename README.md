@@ -50,8 +50,12 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
 제기된 문제
  1) 한글 자체가 안나오고 영어가 나오는 현상
 
-korean.tra를 제외한 .tra 파일 을 지워주시고 다시 실행하시면 됩니다. 
+    korean.tra를 제외한 .tra 파일 을 지워주시고 다시 실행하시면 됩니다. 
 
+ 2) 저장시 영문은 정상적으로 출력되나, 한글은  한자씩 밀려서 출력되는 현상
+
+    한글이름으로 저장은 가능합니다만, 영문이나 숫자로 적는걸 권해드립니다
+ 
 ------------
 <img width="1553" height="786" alt="스크린샷 2026-03-03 005358" src="https://github.com/user-attachments/assets/96e4b88d-d81a-4996-9922-73a67fac31cb" />
 <img width="1406" height="745" alt="스크린샷 2026-03-03 005523" src="https://github.com/user-attachments/assets/cd9dfdb7-93d1-47f5-8b51-e268eb192c87" />
