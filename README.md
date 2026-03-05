@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
 
     korean.tra를 제외한 .tra 파일 을 지워주시고 다시 실행하시면 됩니다. 
 
- 2) 저장시 영문은 정상적으로 출력되나, 한글은  한자씩 밀려서 출력되는 현상
+ 2) 저장시 저장파일이 영문은 정상적으로 출력되나, 한글은  한자씩 밀려서 출력되는 현상
 
     한글이름으로 저장은 가능합니다만, 영문이나 숫자로 적는걸 권해드립니다
  
