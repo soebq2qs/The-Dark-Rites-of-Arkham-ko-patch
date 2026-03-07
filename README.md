@@ -25,9 +25,11 @@ AI 를 사용해 번역과 패치를 이용했고, 사람이 검수하는 방향
 
 ------------------------------
 
-패치파일 드라이브 주소
+패치파일 주소
 
-https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=sharing
+https://github.com/soebq2qs/The-Dark-Rites-of-Arkham-ko-patch/releases/tag/1.02
+
+DAKO (2).zip 다운 받으시면 됩니다
 
 ------------------------------
 ### 적용방법
@@ -45,6 +47,7 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
         <img width="429" height="72" alt="image" src="https://github.com/user-attachments/assets/e48dc180-4b88-4c2c-b31b-37c7a9e84dc0" />
 
        gameplay settings 를 korean 으로 변경 되어 있는지 확인합니다.
+  8.  korean.tra 를 제외한 .tra 파일(Spanish.tra, English.tra)을 폴더에서 삭제
 
 ------
 제기된 문제
@@ -74,6 +77,8 @@ https://drive.google.com/file/d/1jH6qmDLFMty3alYNf37apE8wPOCFy3cb/view?usp=shari
 
  v1.0 최초배포
 
+ v1.02 오타수정
+ 
 -------
 다듬을 목록
 
